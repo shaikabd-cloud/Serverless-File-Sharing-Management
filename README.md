@@ -3,9 +3,6 @@ A serverless file-sharing system that enables users to upload and retrieve files
 
 ---
 
-# **Serverless File Sharing Platform**  
-![image](https://github.com/user-attachments/assets/2004fec9-eb8b-4ef1-b7f8-45e87ac1cc20)
-
 ## **Introduction**  
 
 This project demonstrates a **serverless file-sharing system** that enables users to upload and retrieve files using a **REST API**. The solution is built on **AWS Lambda** for event-driven computing, **API Gateway** for managing API requests, and **Amazon S3** for secure and scalable storage. Users can interact with the API using tools like **Postman** or **cURL**, making it flexible for various use cases.  
@@ -17,7 +14,7 @@ This project demonstrates a **serverless file-sharing system** that enables user
 ✔️ **Team Collaboration:** Teams can use the platform for secure, remote file access and collaboration.  
 
 ## **Architecture Overview**  
-
+![image](https://github.com/user-attachments/assets/2004fec9-eb8b-4ef1-b7f8-45e87ac1cc20)
 
 
 
